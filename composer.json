@@ -1,0 +1,6 @@
+{
+    "name": "acme/danilo-fatfree-teste",
+    "require": {
+    	"bcosca/fatfree": "3.6.5"
+    }
+}

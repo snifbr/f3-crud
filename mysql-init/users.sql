@@ -33,7 +33,7 @@ CREATE TABLE IF NOT EXISTS `users` (
   `mobile` varchar(20) CHARACTER SET latin1 NOT NULL,
   `address` varchar(255) CHARACTER SET latin1 NOT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=MyISAM  DEFAULT CHARSET=utf8 AUTO_INCREMENT=26 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=26 ;
 
 --
 -- Dumping data for table `users`
