@@ -1,6 +1,7 @@
 {
     "name": "acme/danilo-fatfree-teste",
     "require": {
-    	"bcosca/fatfree": "3.6.5"
+    	"bcosca/fatfree": "3.6.5",
+      "phpunit/phpunit": "7.5.*"
     }
 }
