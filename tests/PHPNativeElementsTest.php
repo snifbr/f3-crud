@@ -1,5 +1,8 @@
 <?php
 
+require_once("../src/Application/NativeElements/Math.php");
+require_once("../src/Application/NativeElements/MathInterface.php");
+
 use PHPUnit\Framework\TestCase as PHPUnit;
 use Application\NativeElements\Math;
 
